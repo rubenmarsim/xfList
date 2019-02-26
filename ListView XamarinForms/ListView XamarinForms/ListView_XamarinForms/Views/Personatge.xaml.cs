@@ -16,17 +16,17 @@ namespace ListView_XamarinForms
 		public Personatge (Monkey item)
 		{
 			InitializeComponent ();
-            Nombre.Text = item.Name;
-            BackgroundColor = Color.Black;
-            Foto.Source = item.Image;
-            Desc.Text = item.Details;
-            Desc.TextColor = Color.White;
-            Nombre.TextColor = Color.White;
-            Nombre.FontSize = 40;
-            
+			Nombre.Text = item.Name;
+			BackgroundColor = Color.Black;
+			Foto.Source = item.Image;
+			Desc.Text = item.Details;
+			Desc.TextColor = Color.White;
+			Nombre.TextColor = Color.White;
+			Nombre.FontSize = 40;
+			
 		}
-        public void BackButtonPressedEventsArgs(object sender, SelectedItemChangedEventArgs e) {
-            Application.Current.MainPage.Navigation.PopAsync();
-        }
+		public void BackButtonPressedEventsArgs(object sender, SelectedItemChangedEventArgs e) {
+			Application.Current.MainPage.Navigation.PopAsync();
+		}
 	}
 }

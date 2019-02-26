@@ -1943,13 +1943,7 @@ namespace ListView_XamarinForms.Droid
 			public const int abc_text_cursor_material = 2130837573;
 			
 			// aapt resource value: 0x7F010002
-			public const int Amane = 2130771970;
-			
-			// aapt resource value: 0x7F010003
-			public const int bgDC = 2130771971;
-			
-			// aapt resource value: 0x7F010004
-			public const int Death = 2130771972;
+			public const int bgDC = 2130771970;
 			
 			// aapt resource value: 0x7F02004B
 			public const int design_fab_background = 2130837579;
@@ -1957,8 +1951,8 @@ namespace ListView_XamarinForms.Droid
 			// aapt resource value: 0x7F02004C
 			public const int design_snackbar_background = 2130837580;
 			
-			// aapt resource value: 0x7F010005
-			public const int icon = 2130771973;
+			// aapt resource value: 0x7F010003
+			public const int icon = 2130771971;
 			
 			// aapt resource value: 0x7F02004B
 			public const int ic_audiotrack = 2130837579;
@@ -2164,12 +2158,6 @@ namespace ListView_XamarinForms.Droid
 			// aapt resource value: 0x7F02008E
 			public const int ic_tv_light = 2130837646;
 			
-			// aapt resource value: 0x7F010006
-			public const int L = 2130771974;
-			
-			// aapt resource value: 0x7F010007
-			public const int light = 2130771975;
-			
 			// aapt resource value: 0x7F02008F
 			public const int mr_dialog_material_background_dark = 2130837647;
 			
@@ -2215,17 +2203,8 @@ namespace ListView_XamarinForms.Droid
 			// aapt resource value: 0x7F02009D
 			public const int mr_ic_play_light = 2130837661;
 			
-			// aapt resource value: 0x7F010008
-			public const int Near = 2130771976;
-			
 			// aapt resource value: 0x7F02004D
 			public const int notification_template_icon_bg = 2130837581;
-			
-			// aapt resource value: 0x7F010009
-			public const int Rem = 2130771977;
-			
-			// aapt resource value: 0x7F010010
-			public const int Ryuk = 2130771984;
 			
 			static Drawable()
 			{
